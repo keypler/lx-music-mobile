@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - beta
-workflow_dispatch:        # 允许在 Actions 页面手动触发
 
 jobs:
   Android:
